@@ -5,7 +5,7 @@
 	"name": "Bagged and Tagged",
 	"description": "Use Left CTRL to append item/fluid/block tags to REI Tooltips; Aids in helping find tags for a specific item",
 	"authors": [ "dangbroitsdon", "vncvltvred" ],
-	"contact": { "homepage": "", "sources": "" },
+	"contact": { "homepage": "https://github.com/vncvltvred/Bagged-and-Tagged", "sources": "https://github.com/vncvltvred/Bagged-and-Tagged" },
 	"license": "The Unlicense",
 	"icon": "assets/bat/icon.png",
 	"environment": "client",
