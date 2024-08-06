@@ -1,0 +1,15 @@
+{
+	"schemaVersion": 1,
+	"id": "bagged-and-tagged",
+	"version": "${version}",
+	"name": "Bagged and Tagged",
+	"description": "Use Left CTRL to append item/fluid/block tags to REI Tooltips; Aids in helping find tags for a specific item",
+	"authors": [ "dangbroitsdon", "vncvltvred" ],
+	"contact": { "homepage": "", "sources": "" },
+	"license": "The Unlicense",
+	"icon": "assets/bat/icon.png",
+	"environment": "client",
+	"entrypoints": { "client": [ "hex.vncvltvred.bat.BaggedAndTaggedClient" ] },
+	"mixins": [ "bat.mixins.json" ],
+	"depends": { "fabricloader": ">=0.15.11", "minecraft": "~1.20.1", "java": ">=17", "roughlyenoughitems": ">=12.1.725" }
+}
